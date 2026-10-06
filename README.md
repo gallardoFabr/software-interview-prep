@@ -2,9 +2,7 @@
 
 
 
-Curso personal para recuperar y consolidar C++, Java, C#, SQL/PL-SQL y algoritmos,
-
-rumbo a prácticas de desarrollo de software. Luego: Python y Go.
+It's a course for preparation and remember the concepts of C++, Java, C#, SQL/PL-SQL y algorithms.
 
 
 
