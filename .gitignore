@@ -1,0 +1,31 @@
+# Java
+*.class
+target/
+out/
+.idea/
+
+# C++
+*.o
+*.exe
+build/
+a.out
+
+# C#
+bin/
+obj/
+.vs/
+
+# Node / TypeScript
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+.venv/
+
+# Go
+*.test
+
+# General
+.DS_Store

@@ -1,2 +1,20 @@
-# software-interview-prep
-It's a roadmap for beginners to start in a world of the programming. Resolving from scratch all the features which C++, C#, Java and SQL have. This was created by me (Fabrizio) as a preparation for interviews.
+\# Software Interview Prep
+
+
+
+Curso personal para recuperar y consolidar C++, Java, C#, SQL/PL-SQL y algoritmos,
+
+rumbo a prácticas de desarrollo de software. Luego: Python y Go.
+
+
+
+\## Progreso
+
+\- \[ ] Java: OOP
+
+\- \[ ] C++: OOP
+
+\- \[ ] C#: OOP
+
+\- \[ ] SQL: básico
+
