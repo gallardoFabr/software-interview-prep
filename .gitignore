@@ -29,3 +29,4 @@ __pycache__/
 
 # General
 .DS_Store
+/java/java-course/nbproject/private/
